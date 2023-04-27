@@ -3,6 +3,7 @@
 #include <net-snmp/net-snmp-config.h>
 #include <net-snmp/net-snmp-includes.h>
 
+
 static char create_session_docstring[] =
     "Create SNMP session";
 static char close_session_docstring[] =
